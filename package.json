@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hufeng/rn-china-region-picker/issues"
   },
-  "homepage": "https://github.com/hufeng/rn-china-region-picker#readme"
+  "homepage": "https://github.com/hufeng/rn-china-region-picker#readme",
+  "dependencies": {
+    "react-native-picker-android": "^1.0.2"
+  }
 }
