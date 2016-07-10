@@ -1,11 +1,6 @@
 # rn-china-region-picker
 中国的省市区的多重级联react-native组件
 
-
-# show
-![rn-china-region-picker](https://raw.githubusercontent.com/hufeng/rn-china-region-picker/master/screencast/region.png)
-
-
 # usage
 ```javascript
   var Region = require('rn-china-region-picker');
